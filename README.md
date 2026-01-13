@@ -14,6 +14,6 @@ Dedicated Server 기반 멀티플레이어 PVP 3인칭 슈팅 배틀로얄 게�
 | 링크 | 설명 |
 |:--|:--|
 | [원본 저장소](https://github.com/NbcampUnreal/3rd_4th-Team14-CH4-Project) | 실제로 프로젝트를 진행한 저장소입니다. 이 저장소에서 commit 내역과 PR 내역을 확인할 수 있습니다. |
-| [플레이 영상](https://www.youtube.com/watch?v=SBkoYiFFHDg) | 실제 게임 플레이 영상을 확인할 수 있습니다. |
+| [플레이 영상](https://www.youtube.com/watch?v=qm7sJvVWLm8) | 실제 게임 플레이 영상을 확인할 수 있습니다. |
 | [프로젝트 설명](https://15danpancake.atlassian.net/wiki/spaces/portfolio/pages/157384712/Project+Imitation+Trigger) | 프로젝트에 대한 설명, 문제 해결 과정, 구현 내용을 확인할 수 있는 기술 블로그입니다. |
 

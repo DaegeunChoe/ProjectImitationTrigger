@@ -7,8 +7,7 @@ Dedicated Server 기반 멀티플레이어 PVP 3인칭 슈팅 배틀로얄 게�
 - 개발 기간: 2025.10.24 - 2026.01.08
 - 역할: 팀장 및 리드 프로그래머
 
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/345f8977-d1a8-4912-9eeb-26e1d75628d6" />
-
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/79913ed4-e309-4861-ac7a-4b535ce9f3f7" />
 
 ## 주요 외부 링크
 
